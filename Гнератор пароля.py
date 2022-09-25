@@ -8,7 +8,7 @@ window.title('Генератор пароля')
 window.geometry('450x450')
 window.resizable(False, False)
 window['bg'] = '#00BFFF'
-window.iconbitmap('logo.ico')
+#window.iconbitmap('logo.ico')
 
 # кортежи и словари, содержащие настройки шрифтов и отступов
 font_header = ('Georgia', 20)
